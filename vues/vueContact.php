@@ -5,7 +5,7 @@
     <h3> Vous avez une question, une remarque ou une suggestion ? N'hésitez pas à nous contacter, nous serons ravis de vous aider.</h3><br>
     <h3>55 Rue Capitaine Montréal, 01100 Oyonnax, France </h3> <br>
     <div class="mail">
-    <a class="bordure" href="mailto:xxxx@xx.xx">transport-dlexpress@orange.fr</a>
+    <a class="bordure" href="mailto:xxxx@xx.xx">azerty</a>
     </div>
      <br>
     <h3> TEL : 04 74 81 35 59
